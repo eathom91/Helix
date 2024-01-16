@@ -11,12 +11,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Hazel\Application.h" />
-    <ClInclude Include="src\Hazel\Core.h" />
+    <ClInclude Include="src\Helix\Application.h" />
+    <ClInclude Include="src\Helix\Core.h" />
+    <ClInclude Include="src\Helix\EntryPoint.h" />
     <ClInclude Include="src\Helix.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Hazel\Application.cpp" />
+    <ClCompile Include="src\Helix\Application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

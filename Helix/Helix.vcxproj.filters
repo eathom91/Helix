@@ -15,18 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Hazel\Core.h">
+    <ClInclude Include="src\Helix\Core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Hazel\Application.h">
+    <ClInclude Include="src\Helix\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Helix.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Helix\EntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Hazel\Application.cpp">
+    <ClCompile Include="src\Helix\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
